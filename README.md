@@ -42,5 +42,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
