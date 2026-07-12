@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0268-missing-number](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0268-missing-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -82,4 +85,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
