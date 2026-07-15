@@ -6,11 +6,10 @@ class Solution {
           if(candidate == nums[i]) {
              count++;
           } else {
+            count--;
             if(count == 0) {
                 candidate = nums[i];
                 count++;
-            } else {
-                count--;
             }
           }
        }
