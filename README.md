@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0268-missing-number) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/himangsu3697/LeetCode_Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Linked List
 |  |
 | ------- |
@@ -112,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0169-majority-element) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/himangsu3697/LeetCode_Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
