@@ -1,10 +1,9 @@
 class Solution {
     public boolean isPalindrome(String s) {
-        s = s.trim().toLowerCase();
         int sidx = 0, eidx = s.length()-1;
         while(sidx < eidx) {
             if(Character.isLetterOrDigit(s.charAt(sidx)) && Character.isLetterOrDigit(s.charAt(eidx))) {
-                if(s.charAt(sidx) == s.charAt(eidx)) {
+                if(Character.toLowerCase(s.charAt(sidx)) == Character.toLowerCase(s.charAt(eidx))) {
                     sidx++;
                     eidx--;
                 } else {
