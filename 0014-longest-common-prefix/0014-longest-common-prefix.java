@@ -4,16 +4,17 @@ class Solution {
 
         String first = strs[0];
         String last = strs[strs.length - 1];
-        String res = "";
+
+        StringBuilder sb = new StringBuilder();
 
         for (int i = 0; i < Math.min(first.length(), last.length()); i++) {
             if (first.charAt(i) == last.charAt(i)) {
-                res += first.charAt(i);
+                sb.append(first.charAt(i));
             } else {
                 break;
             }
         }
 
-        return res;
+        return sb.toString();
     }
 }
