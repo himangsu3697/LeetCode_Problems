@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0283-move-zeroes) |
+| [0745-prefix-and-suffix-search](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0745-prefix-and-suffix-search) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0232-implement-queue-using-stacks) |
+| [0745-prefix-and-suffix-search](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0745-prefix-and-suffix-search) |
 ## Queue
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0344-reverse-string) |
 | [0415-add-strings](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0415-add-strings) |
+| [0745-prefix-and-suffix-search](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0745-prefix-and-suffix-search) |
 | [0796-rotate-string](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0796-rotate-string) |
 ## Math
 |  |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0268-missing-number) |
+| [0745-prefix-and-suffix-search](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0745-prefix-and-suffix-search) |
 ## Backtracking
 |  |
 | ------- |
@@ -161,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0014-longest-common-prefix) |
+| [0745-prefix-and-suffix-search](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0745-prefix-and-suffix-search) |
 ## Simulation
 |  |
 | ------- |
