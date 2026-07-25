@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0344-reverse-string) |
+| [0415-add-strings](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0415-add-strings) |
 ## Math
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0268-missing-number) |
+| [0415-add-strings](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0415-add-strings) |
 | [3536-maximum-product-of-two-digits](https://github.com/himangsu3697/LeetCode_Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/himangsu3697/LeetCode_Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Linked List
@@ -157,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0014-longest-common-prefix) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
