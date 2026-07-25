@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0344-reverse-string) |
 | [0415-add-strings](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0415-add-strings) |
+| [0796-rotate-string](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0796-rotate-string) |
 ## Math
 |  |
 | ------- |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0796-rotate-string) |
 ## Tree
 |  |
 | ------- |
