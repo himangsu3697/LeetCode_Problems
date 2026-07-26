@@ -7,22 +7,28 @@ class Solution {
 
         while (low <= high) {
             mid = low + (high - low) / 2;
-            if (nums[mid] == target)
+            if (nums[mid] == target) {
                 break;
-            else if (nums[mid] < target)
+            }
+            else if (nums[mid] < target) {
                 low = mid + 1;
-            else
+            }
+            else {
                 high = mid - 1;
+            }
         }
 
-        if (low > high)
+        if (low > high) {
             return range;
+        }
         int i = mid, j = mid;
-        while (i > 0 && nums[i - 1] == target)
+        while (i > 0 && nums[i - 1] == target) {
             i--;
+        }
 
-        while (j < nums.length - 1 && nums[j + 1] == target)
+        while (j < nums.length - 1 && nums[j + 1] == target) {
             j++;
+        }
 
         range[0] = i;
         range[1] = j;
