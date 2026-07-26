@@ -3,36 +3,18 @@ class Solution {
         int[] range = {-1, -1};
 
         int low = 0, high = nums.length - 1;
-        int mid = 0;
-
-        while (low <= high) {
-            mid = low + (high - low) / 2;
-            if (nums[mid] == target) {
-                break;
-            }
-            else if (nums[mid] < target) {
-                low = mid + 1;
-            }
-            else {
-                high = mid - 1;
-            }
+        while(low < nums.length && nums[low] != target) {
+            low++;
         }
 
-        if (low > high) {
+        while(high >= 0 && nums[high] != target) {
+            high--;
+        }
+        if(low > high) {
             return range;
         }
-        int i = mid, j = mid;
-        while (i > 0 && nums[i - 1] == target) {
-            i--;
-        }
-
-        while (j < nums.length - 1 && nums[j + 1] == target) {
-            j++;
-        }
-
-        range[0] = i;
-        range[1] = j;
-
+        range[0] = low;
+        range[1] = high;
         return range;
     }
 }
