@@ -16,17 +16,17 @@
  
 import java.util.ArrayList; 
 class Solution {
-    public ArrayList <Integer> list = new ArrayList<>();
-    public void inorder(TreeNode root) {
+    public void inorder(TreeNode root, ArrayList <Integer> list) {
         if(root == null) {
             return;
         }
-        inorder(root.left);
+        inorder(root.left, list);
         list.add(root.val);
-        inorder(root.right);
+        inorder(root.right, list);
     }
     public List<Integer> inorderTraversal(TreeNode root) {
-        inorder(root);
+        ArrayList <Integer> list = new ArrayList<>();
+        inorder(root, list);
         return list;
     }
 }
