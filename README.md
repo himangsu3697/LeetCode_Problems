@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0344-reverse-string) |
 | [0415-add-strings](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0415-add-strings) |
 | [0745-prefix-and-suffix-search](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0745-prefix-and-suffix-search) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0051-n-queens) |
+| [0257-binary-tree-paths](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0257-binary-tree-paths) |
 ## Sorting
 |  |
 | ------- |
@@ -167,10 +169,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0222-count-complete-tree-nodes) |
+| [0257-binary-tree-paths](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0222-count-complete-tree-nodes) |
+| [0257-binary-tree-paths](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0257-binary-tree-paths) |
 ## Trie
 |  |
 | ------- |
@@ -184,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/himangsu3697/LeetCode_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Depth-First Search
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
