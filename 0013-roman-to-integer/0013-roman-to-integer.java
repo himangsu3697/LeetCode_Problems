@@ -8,22 +8,23 @@ class Solution {
             case 'C': return 100;
             case 'D': return 500;
             case 'M': return 1000;
+            default: return 0;
         }
-        return 0;
     }
     public int romanToInt(String s) {
+        int n = s.length();
         int res = 0;
-        int curr, next;
-        for (int i=0; i<s.length()-1; i++) {
-            curr = value(s.charAt(i));
-            next = value(s.charAt(i+1));
-            if (curr >= next) {
-                res += curr;
-            } else {
+        for (int i = 0; i < n - 1; i++) {
+            int curr = value(s.charAt(i));
+            int next = value(s.charAt(i + 1));
+
+            if (curr < next) {
                 res -= curr;
+            } else {
+                res += curr;
             }
         }
-        res += value(s.charAt(s.length() - 1));
-        return res;
+
+        return res + value(s.charAt(n - 1));
     }
 }
