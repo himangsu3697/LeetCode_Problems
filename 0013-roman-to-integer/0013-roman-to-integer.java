@@ -1,5 +1,4 @@
 class Solution {
-
     public int value(char ch) {
         switch (ch) {
             case 'I': return 1;
@@ -12,23 +11,19 @@ class Solution {
         }
         return 0;
     }
-
     public int romanToInt(String s) {
         int res = 0;
-        int prev = 0;
-
-        for (int i = s.length() - 1; i >= 0; i--) {
-            int curr = value(s.charAt(i));
-
-            if (curr < prev) {
-                res -= curr;
-            } else {
+        int curr, next;
+        for (int i=0; i<s.length()-1; i++) {
+            curr = value(s.charAt(i));
+            next = value(s.charAt(i+1));
+            if (curr >= next) {
                 res += curr;
+            } else {
+                res -= curr;
             }
-
-            prev = curr;
         }
-
+        res += value(s.charAt(s.length() - 1));
         return res;
     }
 }
