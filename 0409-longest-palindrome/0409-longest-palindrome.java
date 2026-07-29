@@ -1,19 +1,29 @@
-import java.util.HashSet;
+import java.util.HashMap;
+
 class Solution {
     public int longestPalindrome(String s) {
-        HashSet <Character> set = new HashSet<>();
+        HashMap<Character, Integer> map = new HashMap<>();
+
+        for (char ch : s.toCharArray()) {
+            map.put(ch, map.getOrDefault(ch, 0) + 1);
+        }
+
         int count = 0;
-        for(int i=0; i<s.length(); i++) {
-            if(set.contains(s.charAt(i))) {
-                set.remove(s.charAt(i));
-                count += 2;
+        boolean hasOdd = false;
+
+        for (int val : map.values()) {
+            if (val % 2 == 0) {
+                count += val;
             } else {
-                set.add(s.charAt(i));
+                count += val - 1;
+                hasOdd = true;
             }
         }
-        if(!set.isEmpty()) {
+
+        if (hasOdd) {
             count++;
         }
+
         return count;
     }
 }
