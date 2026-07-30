@@ -13,18 +13,15 @@ class Solution {
         if(head == null || head.next == null) {
             return null;
         }
-        int n = 0;
-        ListNode temp = head;
-        while(temp != null) {
-            n++;
-            temp = temp.next;
+        ListNode hair = head;
+        ListNode turtle = head;
+        ListNode prev = null;
+        while(hair != null && hair.next != null) {
+            prev = turtle;
+            hair = hair.next.next;
+            turtle = turtle.next;
         }
-        int mid = (n/2)+1;
-        temp = head;
-        for(int i=1; i<mid-1; i++) {
-            temp = temp.next;
-        }
-        temp.next = (temp.next.next != null)? temp.next.next : null;
+        prev.next = prev.next.next;
         return head;
     }
 }
