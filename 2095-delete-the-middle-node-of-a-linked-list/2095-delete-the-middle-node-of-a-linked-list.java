@@ -21,7 +21,7 @@ class Solution {
             hair = hair.next.next;
             turtle = turtle.next;
         }
-        prev.next = prev.next.next;
+        prev.next = turtle.next;
         return head;
     }
 }
