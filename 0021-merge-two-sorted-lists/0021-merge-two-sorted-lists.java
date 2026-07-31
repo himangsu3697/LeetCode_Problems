@@ -1,56 +1,33 @@
-/**
- * Definition for singly-linked list.
- * public class ListNode {
- *     int val;
- *     ListNode next;
- *     ListNode() {}
- *     ListNode(int val) { this.val = val; }
- *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
- * }
- */
 class Solution {
     public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
+        if(list1 == null && list2 == null) {
+            return null;
+        } else if(list1 == null) {
+            return list2;
+        } else if(list2 == null) {
+            return list1;
+        }
+
         ListNode res = null;
-        ListNode l1=list1,l2=list2;
+        ListNode tail = null;
         ListNode newNode;
-        while(l1 != null && l2 != null) {
-            if(l1.val < l2.val) {
-                newNode = new ListNode(l1.val);
-                l1 = l1.next;
+        while(list1 != null && list2 != null) {
+            if(list1.val > list2.val) {
+                newNode = new ListNode(list2.val);
+                list2 = list2.next;
             } else {
-                newNode = new ListNode(l2.val);
-                l2 = l2.next;
+                newNode = new ListNode(list1.val);
+                list1 = list1.next;
             }
             if(res == null) {
-                res = newNode;
+                res = tail = newNode;
+
             } else {
-                ListNode i = res;
-                for(; i.next != null; i=i.next);
-                i.next = newNode;
+                tail.next = newNode;
+                tail = newNode;
             }
         }
-        while(l1 != null) {
-            newNode = new ListNode(l1.val);
-            if(res == null) {
-                res = newNode;
-            } else {
-                ListNode i = res;
-                for(; i.next != null; i=i.next);
-                i.next = newNode;
-            }
-            l1 = l1.next;
-        }
-        while(l2 != null) {
-            newNode = new ListNode(l2.val);
-            if(res == null) {
-                res = newNode;
-            } else {
-                ListNode i = res;
-                for(; i.next != null; i=i.next);
-                i.next = newNode;
-            }
-            l2 = l2.next;
-        }
+        tail.next = (list1 != null) ? list1 : list2;
         return res;
     }
 }
