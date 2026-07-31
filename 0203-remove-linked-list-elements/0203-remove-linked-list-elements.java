@@ -16,15 +16,13 @@ class Solution {
             if (curr.val == val) {
                 if (prev == null) {
                     head = head.next;
-                    curr = head;
                 } else {
                     prev.next = curr.next;
-                    curr = curr.next;
                 }
             } else {
                 prev = curr;
-                curr = curr.next;
             }
+            curr = curr.next;
         }
         return head;
     }
