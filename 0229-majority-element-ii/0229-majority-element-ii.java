@@ -10,9 +10,9 @@ class Solution {
             map.put(num, map.getOrDefault(num, 0) + 1);
         }
 
-        for (Map.Entry<Integer, Integer> entry : map.entrySet()) {
-            if (entry.getValue() > limit) {
-                list.add(entry.getKey());
+        for (Map.Entry<Integer, Integer> e : map.entrySet()) {
+            if (e.getValue() > limit) {
+                list.add(e.getKey());
             }
         }
 
