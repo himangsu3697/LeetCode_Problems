@@ -14,6 +14,9 @@ class Solution {
             if (e.getValue() > limit) {
                 list.add(e.getKey());
             }
+            if(list.size() == 2) {
+                break;
+            }
         }
 
         return list;
