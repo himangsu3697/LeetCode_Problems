@@ -1,18 +1,21 @@
 import java.util.HashMap;
-import java.util.List;
+import java.util.ArrayList;
 class Solution {
     public List<Integer> majorityElement(int[] nums) {
-        HashMap <Integer, Integer> map = new HashMap<>();
-        List <Integer> list = new ArrayList<>();
-        int n = nums.length;
-        for(int num : nums) {
+        HashMap<Integer, Integer> map = new HashMap<>();
+        List<Integer> list = new ArrayList<>();
+        int limit = nums.length / 3;
+
+        for (int num : nums) {
             map.put(num, map.getOrDefault(num, 0) + 1);
         }
-        for(int num : map.keySet()){
-            if(map.get(num) > n/3) {
-                list.add(num);
+
+        for (Map.Entry<Integer, Integer> entry : map.entrySet()) {
+            if (entry.getValue() > limit) {
+                list.add(entry.getKey());
             }
         }
+
         return list;
     }
 }
