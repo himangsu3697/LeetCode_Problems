@@ -9,21 +9,14 @@
  *     }
  * }
  */
-import java.util.HashSet;
 public class Solution {
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
-        HashSet <ListNode> set = new HashSet<>();
-        int idx = 0;
-        while(headA != null) {
-            set.add(headA);
-            headA = headA.next;
+        ListNode l1 = headA;
+        ListNode l2 = headB;
+        while(l1 != l2) {
+            l1 = (l1 == null) ? headB : l1.next;
+            l2 = (l2 == null) ? headA : l2.next;
         }
-        while(headB != null) {
-            if(set.contains(headB)) {
-                return headB;
-            }
-            headB = headB.next;
-        }
-        return null;
+        return l1;     
     }
 }
