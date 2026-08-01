@@ -13,7 +13,7 @@ class Solution {
             }
         }
         for(int num : map.keySet()){
-            if(map.get(num) >= n/3+1) {
+            if(map.get(num) > n/3) {
                 list.add(num);
             }
         }
