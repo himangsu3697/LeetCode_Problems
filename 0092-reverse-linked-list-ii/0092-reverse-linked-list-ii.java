@@ -24,8 +24,8 @@ class Solution {
         for (int i = left; i < right; i++) {
             r = r.next;
         }
-        ListNode re = r;
-        r = r.next;
+        ListNode re = r; //reverse end node
+        r = r.next; 
         ListNode p = l.next;
         ListNode q = p.next;
         ListNode tail = p;
