@@ -11,8 +11,8 @@ class Solution {
         }
         StringBuilder res = new StringBuilder("");
         while(!st.isEmpty()) {
-            res.insert(0,st.pop());
+            res.append(st.pop());
         }
-        return res.toString();
+        return res.reverse().toString();
     }
 }
