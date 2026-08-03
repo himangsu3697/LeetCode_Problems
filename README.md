@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0035-search-insert-position) |
 | [0222-count-complete-tree-nodes](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Bit Manipulation
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -240,4 +244,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0257-binary-tree-paths) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
