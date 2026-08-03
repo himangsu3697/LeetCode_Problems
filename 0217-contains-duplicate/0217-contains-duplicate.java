@@ -1,9 +1,12 @@
-import java.util.Arrays;
+import java.util.HashMap;
 class Solution {
     public boolean containsDuplicate(int[] nums) {
-        Arrays.sort(nums);
-        for(int i=0; i<nums.length-1; i++) {
-            if(nums[i] == nums[i+1]) {
+        HashMap <Integer, Integer> map = new HashMap<>();
+        for(int n : nums) {
+            map.put(n, map.getOrDefault(n, 0) + 1);
+        }
+        for(int v : map.values()) {
+            if(v >= 2) {
                 return true;
             }
         }
