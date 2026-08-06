@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0643-maximum-average-subarray-i) |
+| [0739-daily-temperatures](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0739-daily-temperatures) |
 | [0745-prefix-and-suffix-search](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0745-prefix-and-suffix-search) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/himangsu3697/LeetCode_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3731-find-missing-elements](https://github.com/himangsu3697/LeetCode_Problems/tree/master/3731-find-missing-elements) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0739-daily-temperatures) |
 | [2390-removing-stars-from-a-string](https://github.com/himangsu3697/LeetCode_Problems/tree/master/2390-removing-stars-from-a-string) |
 ## Design
 |  |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0739-daily-temperatures) |
 ## Enumeration
 |  |
 | ------- |
