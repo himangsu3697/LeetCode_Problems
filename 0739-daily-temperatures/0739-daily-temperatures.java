@@ -7,11 +7,7 @@ class Solution {
             while(!st.isEmpty() && temperatures[st.peek()] <= temperatures[i]) {
                 st.pop();
             }
-            if(st.isEmpty()) {
-                res[i] = 0;
-            } else {
-                res[i] = st.peek() - i;
-            }
+            res[i] = (st.isEmpty()) ? 0 : st.peek() - i;
             st.push(i);
         } 
         return res;
