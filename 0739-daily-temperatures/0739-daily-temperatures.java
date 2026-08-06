@@ -1,7 +1,7 @@
-import java.util.Stack;
+import java.util.ArrayDeque;
 class Solution {
     public int[] dailyTemperatures(int[] temperatures) {
-        Stack <Integer> st = new Stack<>(); // stores the index of the next highest temperature 
+        ArrayDeque <Integer> st = new ArrayDeque<>(); // stores the index of the next highest temperature 
         int res[] = new int[temperatures.length];
         for(int i=temperatures.length-1; i>=0; i--) {
             while(!st.isEmpty() && temperatures[st.peek()] <= temperatures[i]) {
