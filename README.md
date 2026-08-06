@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/himangsu3697/LeetCode_Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/himangsu3697/LeetCode_Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/himangsu3697/LeetCode_Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Linked List
@@ -270,4 +271,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0496-next-greater-element-i) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/himangsu3697/LeetCode_Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
