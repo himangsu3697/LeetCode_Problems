@@ -1,8 +1,7 @@
-import java.util.Stack;
-
+import java.util.ArrayDeque;
 class Solution {
     public int calPoints(String[] operations) {
-        Stack<Integer> st = new Stack<>();
+        ArrayDeque <Integer> st = new ArrayDeque<>();
 
         for (String op : operations) {
             if (op.equals("C")) {
