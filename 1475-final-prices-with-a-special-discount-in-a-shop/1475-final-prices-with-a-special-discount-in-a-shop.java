@@ -2,18 +2,16 @@ import java.util.ArrayDeque;
 class Solution {
     public int[] finalPrices(int[] prices) {
         ArrayDeque <Integer> st = new ArrayDeque<>();
-        int res[] = new int[prices.length];
         for(int i=prices.length-1; i>=0; i--) {
+            int price = prices[i];
             while(!st.isEmpty() && st.peek() > prices[i]) {
                 st.pop();
             }
-            if(st.isEmpty()) {
-                res[i] = prices[i];
-            } else {
-                res[i] = prices[i] - st.peek();
+            if(!st.isEmpty()) {
+                prices[i] = price - st.peek();
             }
-            st.push(prices[i]);
+            st.push(price);
         }
-        return res;
+        return prices;
     }
 }
