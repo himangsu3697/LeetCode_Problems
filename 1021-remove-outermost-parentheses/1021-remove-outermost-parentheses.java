@@ -1,8 +1,8 @@
-import java.util.Stack;
+import java.util.ArrayDeque;
 class Solution {
     public String removeOuterParentheses(String s) {
         StringBuilder sb = new StringBuilder(s.length());
-        Stack<Character> st = new Stack<>();
+        ArrayDeque<Character> st = new ArrayDeque<>();
 
         for (int i = 0; i < s.length(); i++) {
             char c = s.charAt(i);
