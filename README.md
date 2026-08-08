@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0739-daily-temperatures) |
 | [0745-prefix-and-suffix-search](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0745-prefix-and-suffix-search) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/himangsu3697/LeetCode_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/himangsu3697/LeetCode_Problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [3731-find-missing-elements](https://github.com/himangsu3697/LeetCode_Problems/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/himangsu3697/LeetCode_Problems/tree/master/1021-remove-outermost-parentheses) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/himangsu3697/LeetCode_Problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2390-removing-stars-from-a-string](https://github.com/himangsu3697/LeetCode_Problems/tree/master/2390-removing-stars-from-a-string) |
 ## Design
 |  |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0739-daily-temperatures) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/himangsu3697/LeetCode_Problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Enumeration
 |  |
 | ------- |
