@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0844-backspace-string-compare) |
+| [1021-remove-outermost-parentheses](https://github.com/himangsu3697/LeetCode_Problems/tree/master/1021-remove-outermost-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/himangsu3697/LeetCode_Problems/tree/master/2390-removing-stars-from-a-string) |
 ## Design
 |  |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-prefix-and-suffix-search](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0745-prefix-and-suffix-search) |
 | [0796-rotate-string](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0844-backspace-string-compare) |
+| [1021-remove-outermost-parentheses](https://github.com/himangsu3697/LeetCode_Problems/tree/master/1021-remove-outermost-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/himangsu3697/LeetCode_Problems/tree/master/2390-removing-stars-from-a-string) |
 ## Math
 |  |
@@ -313,4 +315,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0075-sort-colors) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/himangsu3697/LeetCode_Problems/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
