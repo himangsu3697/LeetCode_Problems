@@ -1,26 +1,20 @@
-import java.util.ArrayDeque;
 class Solution {
     public String removeOuterParentheses(String s) {
         StringBuilder sb = new StringBuilder(s.length());
-        ArrayDeque<Character> st = new ArrayDeque<>();
-
+        int balance = 0;
         for (int i = 0; i < s.length(); i++) {
-            char c = s.charAt(i);
-
-            if (c == '(') {
-                if (!st.isEmpty()) {
-                    sb.append(c);
+            if (s.charAt(i) == '(') {
+                if (balance > 0) {
+                    sb.append('(');
                 }
-                st.push(c);
+                balance++;
             } else {
-                st.pop();
-
-                if (!st.isEmpty()) {
-                    sb.append(c);
+                balance--;
+                if (balance > 0) {
+                    sb.append(')');
                 }
             }
         }
-
         return sb.toString();
     }
 }
