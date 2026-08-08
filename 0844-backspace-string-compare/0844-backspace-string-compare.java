@@ -1,33 +1,25 @@
-import java.util.ArrayDeque;
 class Solution {
     public boolean backspaceCompare(String s, String t) {
-        ArrayDeque <Character> st = new ArrayDeque<>();
         StringBuilder sb1 = new StringBuilder();
         StringBuilder sb2 = new StringBuilder();
         for(char c : s.toCharArray()) {
             if(c == '#') {
-                if(!st.isEmpty()) {
-                    st.pop();
+                if(!sb1.isEmpty()) {
+                    sb1.setLength(sb1.length() -1);
                 }
             } else {
-                st.push(c);
+                sb1.append(c);
             }
-        }
-        while(!st.isEmpty()) {
-            sb1.insert(0,st.pop());
         }
 
         for(char c : t.toCharArray()) {
             if(c == '#') {
-                if(!st.isEmpty()) {
-                    st.pop();
+                if(!sb2.isEmpty()) {
+                    sb2.setLength(sb2.length() -1);
                 }
             } else {
-                st.push(c);
+                sb2.append(c);
             }
-        }
-        while(!st.isEmpty()) {
-            sb2.insert(0,st.pop());
         }
         return sb1.toString().equals(sb2.toString());
     }
