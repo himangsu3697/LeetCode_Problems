@@ -6,7 +6,7 @@ class Solution {
           if(nums[i] != 0) {
             product *= nums[i];
           } else {
-            count++;
+            count++; 
           }
         }
         for(int i=0; i<nums.length; i++) {
