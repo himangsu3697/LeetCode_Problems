@@ -1,4 +1,3 @@
-import java.util.Arrays;
 class Solution {
     public int[][] insert(int[][] intervals, int[] newInterval) {
         int[][] res = new int[intervals.length + 1][2];
