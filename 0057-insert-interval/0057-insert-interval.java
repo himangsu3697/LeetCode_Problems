@@ -7,7 +7,7 @@ class Solution {
         while (i < intervals.length && newInterval[0] > intervals[i][1]) {
             res[idx++] = intervals[i++];
         }
-        
+
         while (i < intervals.length && newInterval[1] >= intervals[i][0]) {
             newInterval[0] = Math.min(newInterval[0], intervals[i][0]);
             newInterval[1] = Math.max(newInterval[1], intervals[i][1]);
@@ -17,7 +17,6 @@ class Solution {
         while (i < intervals.length) {
             res[idx++] = intervals[i++];
         }
-
         return Arrays.copyOf(res, idx);
     }
 }
