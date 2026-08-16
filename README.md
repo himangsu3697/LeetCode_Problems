@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0682-baseball-game) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0745-prefix-and-suffix-search](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0745-prefix-and-suffix-search) |
 | [3731-find-missing-elements](https://github.com/himangsu3697/LeetCode_Problems/tree/master/3731-find-missing-elements) |
 ## Backtracking
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0560-subarray-sum-equals-k) |
 ## Matrix
 |  |
 | ------- |
