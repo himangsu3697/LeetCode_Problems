@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0682-baseball-game) |
+| [0704-binary-search](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0739-daily-temperatures) |
 | [0745-prefix-and-suffix-search](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0745-prefix-and-suffix-search) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/himangsu3697/LeetCode_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0704-binary-search](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
