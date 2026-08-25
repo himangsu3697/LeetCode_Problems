@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0739-daily-temperatures) |
 | [0745-prefix-and-suffix-search](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0745-prefix-and-suffix-search) |
+| [0875-koko-eating-bananas](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0875-koko-eating-bananas) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/himangsu3697/LeetCode_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/himangsu3697/LeetCode_Problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/himangsu3697/LeetCode_Problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0875-koko-eating-bananas) |
 ## Bit Manipulation
 |  |
 | ------- |
