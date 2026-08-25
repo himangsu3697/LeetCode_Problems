@@ -10,7 +10,10 @@ class Solution {
             int mid = low + (high - low) / 2;
             long totleHours = 0;
             for (int n : piles) {
-                totleHours += ((long)n + mid-1) / mid;
+                totleHours += ((long) n + mid-1) / mid;
+                if(totleHours > h) {
+                    break;
+                }
             }
             if (totleHours <= h) {
                 high = mid - 1;
