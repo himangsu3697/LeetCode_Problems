@@ -27,13 +27,13 @@ class Solution {
                 if (mid % 2 == 1) {
                     low = mid + 1;
                 } else {
-                    high = mid - 1;
+                    high = mid - 2;
                 }
             }
             // mid is the first element of a pair
             else {
                 if (mid % 2 == 0) {
-                    low = mid + 1;
+                    low = mid + 2;
                 } else {
                     high = mid - 1;
                 }
