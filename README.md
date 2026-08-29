@@ -295,12 +295,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0257-binary-tree-paths) |
 ## Trie
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0257-binary-tree-paths) |
 ## Pigeonhole Principle
 |  |
@@ -390,4 +393,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0278-first-bad-version) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
