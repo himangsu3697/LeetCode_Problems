@@ -4,8 +4,12 @@ class Solution {
         int left = 0, right = height.length - 1;
         int leftMax = 0, rightMax = 0;
         while (left < right) {
-            leftMax = Math.max(leftMax, height[left]);
-            rightMax = Math.max(rightMax, height[right]);
+            if (leftMax < height[left]) {
+                leftMax = height[left];
+            }
+            if (rightMax < height[right]) {
+                rightMax = height[right];
+            }
 
             if (leftMax < rightMax) {
                 totalWater += leftMax - height[left];
