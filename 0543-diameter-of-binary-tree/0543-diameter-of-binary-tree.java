@@ -27,9 +27,6 @@ class Solution {
         if(root == null) {
             return new TreeInfo(0, 0);
         }
-        if(root.left == null && root.right == null) {
-            return new TreeInfo(1, 1);
-        }
 
         TreeInfo left = treeInformation(root.left);
         TreeInfo right = treeInformation(root.right);
