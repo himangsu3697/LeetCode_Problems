@@ -34,7 +34,8 @@ class Solution {
 
         TreeInfo left = treeInformation(root.left);
         TreeInfo right = treeInformation(root.right);
-        int ht = Math.max(left.ht, right.ht) + 1;
+        int ht = (left.ht > right.ht) ? left.ht : right.ht;
+        ht+=1;
         int dm = Math.max(Math.max(left.dm, right.dm), left.ht + right.ht + 1);
         return new TreeInfo(ht, dm);
     }
