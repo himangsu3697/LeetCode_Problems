@@ -17,6 +17,7 @@ class Solution {
     static class TreeInfo {
         int ht;
         int dm;
+
         TreeInfo(int ht, int dm) {
             this.ht = ht;
             this.dm = dm;
@@ -24,8 +25,11 @@ class Solution {
     }
 
     public TreeInfo treeInformation(TreeNode root) {
-        if(root == null) {
+        if (root == null) {
             return new TreeInfo(0, 0);
+        }
+        if (root.left == null && root.right == null) {
+            return new TreeInfo(1, 1);
         }
 
         TreeInfo left = treeInformation(root.left);
