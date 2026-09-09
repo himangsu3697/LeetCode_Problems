@@ -3,7 +3,7 @@ class Solution {
         int preffixMax = Integer.MIN_VALUE;
         int suffixMax = Integer.MIN_VALUE;
         int preffix = 1, suffix = 1;
-        //calculate suffix max
+        //calculate prefix max
         for(int i=0; i<nums.length; i++) {
             preffix *= nums[i];
             preffixMax = Math.max(preffixMax, preffix);
