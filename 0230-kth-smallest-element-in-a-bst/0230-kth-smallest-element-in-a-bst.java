@@ -13,12 +13,11 @@
  *     }
  * }
  */
- import java.util.ArrayList;
 class Solution {
     int count = 0;
     int ans;
     public void helper(TreeNode root, int k) {
-        if(root != null) {
+        if(root != null && count < k) {
             helper(root.left, k);
             count++;
             if(count == k) {
