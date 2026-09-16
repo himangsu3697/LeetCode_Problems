@@ -15,16 +15,21 @@
  */
  import java.util.ArrayList;
 class Solution {
-    public void helper(TreeNode root, ArrayList<Integer> list) {
+    int count = 0;
+    int ans;
+    public void helper(TreeNode root, int k) {
         if(root != null) {
-            helper(root.left, list);
-            list.add(root.val);
-            helper(root.right, list);
+            helper(root.left, k);
+            count++;
+            if(count == k) {
+                ans = root.val;
+                return;
+            }
+            helper(root.right, k);
         }
     }
     public int kthSmallest(TreeNode root, int k) {
-        ArrayList <Integer> list = new ArrayList<>();
-        helper(root, list);
-        return list.get(k-1);
+        helper(root, k);
+        return ans;
     }
 }
