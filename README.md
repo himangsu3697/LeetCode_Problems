@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0051-n-queens) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0013-roman-to-integer) |
+| [0041-first-missing-positive](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0139-word-break) |
