@@ -333,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0543-diameter-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/himangsu3697/LeetCode_Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0543-diameter-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/himangsu3697/LeetCode_Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Trie
 |  |
@@ -496,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0449-serialize-and-deserialize-bst](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0450-delete-node-in-a-bst) |
+| [0700-search-in-a-binary-search-tree](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/himangsu3697/LeetCode_Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Memoization
 |  |
