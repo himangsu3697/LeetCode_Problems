@@ -1,27 +1,33 @@
 import java.util.Stack;
-import java.util.Queue;
-import java.util.ArrayDeque;
 class Solution {
     public String reverseParentheses(String s) {
-        Stack <Character> st = new Stack<>();
-        Queue <Character> q = new ArrayDeque<>();
-        for(int i=0; i<s.length(); i++) {
-            if(s.charAt(i) == ')') {
-                while(st.peek() != '(') {
-                    q.add(st.pop());
+        Stack<Character> st = new Stack<>();
+        for (int i = 0; i < s.length(); i++) {
+            char ch = s.charAt(i);
+
+            if (ch == ')') {
+                StringBuilder temp = new StringBuilder();
+
+                while (st.peek() != '(') {
+                    temp.append(st.pop());
                 }
+
                 st.pop();
-                while(!q.isEmpty()) {
-                    st.push(q.remove());
+
+                for (int j = 0; j < temp.length(); j++) {
+                    st.push(temp.charAt(j));
                 }
             } else {
-                st.push(s.charAt(i));
+                st.push(ch);
             }
         }
+
         StringBuilder sb = new StringBuilder();
-        while(!st.isEmpty()) {
+
+        while (!st.isEmpty()) {
             sb.insert(0, st.pop());
         }
+
         return sb.toString();
     }
 }
