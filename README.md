@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/himangsu3697/LeetCode_Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/himangsu3697/LeetCode_Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/himangsu3697/LeetCode_Problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/himangsu3697/LeetCode_Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/himangsu3697/LeetCode_Problems/tree/master/2390-removing-stars-from-a-string) |
 ## Design
 |  |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/himangsu3697/LeetCode_Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/himangsu3697/LeetCode_Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/himangsu3697/LeetCode_Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/himangsu3697/LeetCode_Problems/tree/master/2390-removing-stars-from-a-string) |
 ## Math
 |  |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/himangsu3697/LeetCode_Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/himangsu3697/LeetCode_Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/himangsu3697/LeetCode_Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Prefix Sum
 |  |
 | ------- |
