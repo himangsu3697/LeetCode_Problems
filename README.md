@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0052-n-queens-ii) |
 | [0257-binary-tree-paths](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0257-binary-tree-paths) |
 ## Sorting
 |  |
@@ -543,4 +544,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0139-word-break) |
+## Algorithm X
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
