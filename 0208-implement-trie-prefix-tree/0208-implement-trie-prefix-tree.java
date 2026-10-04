@@ -6,9 +6,6 @@ class Trie {
         public Node() {
             this.children = new Node[26];
             this.endOfWord = false;
-            for (int i = 0; i < 26; i++) {
-                this.children[i] = null;
-            }
         }
     }
 
