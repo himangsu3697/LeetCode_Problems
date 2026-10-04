@@ -5,7 +5,7 @@ class Trie {
         boolean endOfWord;
     }
 
-    private final Node root;
+    private Node root;
 
     public Trie() {
         root = new Node();
