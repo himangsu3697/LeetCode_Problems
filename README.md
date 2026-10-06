@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0389-find-the-difference](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0415-add-strings) |
 | [0449-serialize-and-deserialize-bst](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0449-serialize-and-deserialize-bst) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0496-next-greater-element-i) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/himangsu3697/LeetCode_Problems/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0287-find-the-duplicate-number) |
+| [0389-find-the-difference](https://github.com/himangsu3697/LeetCode_Problems/tree/master/0389-find-the-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
